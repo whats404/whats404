@@ -1,6 +1,11 @@
-## Hi there 👋
+Angie
+Electrical engineering student.
+Learning how things work. Thinking about what comes next.  
+                  
+                  
+                  
 
-<!--
+                  
 **whats404/whats404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
